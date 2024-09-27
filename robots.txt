@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://miqebanimuja.netlify.app/sitemap.xml
